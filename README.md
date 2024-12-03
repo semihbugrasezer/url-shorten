@@ -1,6 +1,6 @@
 # 🔗 URL Shortener API
 
-AA simple URL shortener service built with **Rust**, **Actix-web**, and **Redis**. This API allows you to shorten long URLs and redirect users to the original URLs using short, user-friendly links.
+A simple URL shortener service built with **Rust**, **Actix-web**, and **Redis**. This API allows you to shorten long URLs and redirect users to the original URLs using short, user-friendly links.
 
 ## Features
 
